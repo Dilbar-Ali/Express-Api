@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "express-api",
+  "description": "It is express Api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hmr": "nodemon index.js",
+    "nodemon": "npm run hmr",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dilbar-Ali/Express-Api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dilbar-Ali/Express-Api/issues"
+  },
+  "homepage": "https://github.com/Dilbar-Ali/Express-Api#readme"
+}
